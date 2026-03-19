@@ -5,9 +5,9 @@ Migrated Ola Financial Services from AWS to OLA inhouse cloud platform, Krutrim 
 This was done by provisioning VMs, configuring load balancers, and updating DNS records with zero downtime.
 
 ## Architecture
-Source : AWS
-Target : KCS
-DNS migrated using Akamai
+- Source : AWS
+- Target : KCS
+- DNS migrated using Akamai
 
 ## Steps
 - Analyzed the existing AWS infrastructure
