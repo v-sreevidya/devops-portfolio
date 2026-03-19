@@ -1,8 +1,8 @@
 # DevOps Portfolio - Sreevidya V
-##About Me
+## About Me
 DevOps Engineer with hands-on experience in AWS, Terrafform, CI/CD, and cloud migration.
 
-##Skills
+## Skills
 - Cloud : AWS, Krutrim Cloud
 - IaC : Terraform, Ansible
 - CI/CD : Jenkins, GitHub Actions
@@ -10,17 +10,17 @@ DevOps Engineer with hands-on experience in AWS, Terrafform, CI/CD, and cloud mi
 - Monitoring : Prometheus, Grafana
 - Scripting : Python, Bash
 
-##Projects
+## Projects
 - AWS to Krutrim Cloud Migration
 - Terraform Load Balancer Automation
 - Akamai CDN Setup
 
-##Certifications
+## Certifications
 (To be added)
 
-##Scripts
+## Scripts
 (To be added)
 
-##Contact
+## Contact
 LinkedIn : https://www.linkedin.com/in/sreevidya-v/
 Email : sreevidyavijayan14@gmail.com
