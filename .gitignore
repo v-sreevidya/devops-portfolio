@@ -1,0 +1,17 @@
+# terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.tfstate.lock.info
+*.tfplan
+crash.log
+.terraform.lock.hcl
+
+# variable values — may contain secrets
+terraform.tfvars
+*.auto.tfvars
+
+# credentials
+*.pem
+*.key
+.aws/
