@@ -1,0 +1,2 @@
+- Cloud used - Krutrim Cloud Service (OLA inhouse cloud)
+- 
